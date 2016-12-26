@@ -27,5 +27,8 @@ The code will look like the following:
 
 * [BeagleBone Robotic Projects]( https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects?utm_source=github&utm_medium=repository&utm_content=9781783559329 )
 
+### Note:
+Chapter 1 does not have code files.
+
 ###Suggestions and Feedback
 [Click here] ( https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform ) if you have any feedback or suggestions.
